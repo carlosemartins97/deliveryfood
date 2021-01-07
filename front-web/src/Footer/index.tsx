@@ -9,13 +9,13 @@ function Footer() {
         <footer className="main-footer">
             <p>App desenvolvido durante a 2ª ed. do evento Semana DevSuperior</p>
             <div className="footer-icons">
-                <a href="#" target="_new">
+                <a href="http://www.google.com.br" target="_new">
                     <YoutubeIcon />
                 </a>
-                <a href="#" target="_new">
+                <a href="http://www.google.com.br" target="_new">
                     <InstagramIcon />
                 </a>
-                <a href="#" target="_new">
+                <a href="http://www.google.com.br" target="_new">
                     <LinkedinIcon />
                 </a>
             </div>
