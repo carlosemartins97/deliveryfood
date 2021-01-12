@@ -9,7 +9,15 @@ Delivery App é uma aplicação full stack web e mobile construída durante a 2�
 A aplicação consiste em um aplicativo delivery com funcionalidades básicas utilizando backend com JAVA Spring Boot hospedado no Heroku e front web utilizando ReactJS hospedado no Netlify.
 
 ## Layout mobile
-Incoming...
+##Landing Page
+![Mob 1](https://github.com/carlosemartins97/deliveryfood/blob/main/assets/mob1.png?raw=true)
+##Orders
+![Mob 2](https://github.com/carlosemartins97/deliveryfood/blob/main/assets/mob2.png?raw=true)
+##Order Detail
+![Mob 3](https://github.com/carlosemartins97/deliveryfood/blob/main/assets/mob4.png?raw=true)
+##Order Delivered
+![Mob 4](https://github.com/carlosemartins97/deliveryfood/blob/main/assets/mob4.png?raw=true)
+
 
 ## Layout web
 ### Homepage
