@@ -31,7 +31,7 @@ const handleOnCancel = () => {
 const handleConfirmDelivery = () => {
     confirmDelivery(order.id)
         .then(() => {
-            Alert.alert(`Pedido ${order.id} confirmado com sucesso!`)
+            Alert.alert(`Pedido ${order.id} entregue com sucesso!`)
             navigation.navigate('Orders')
         })
         .catch(() => {
