@@ -1,5 +1,4 @@
-# Delivery App
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/carlosemartins97/deliveryfood/blob/main/LICENSE) 
+# DS CATALOG
 
 # Sobre o projeto
 
